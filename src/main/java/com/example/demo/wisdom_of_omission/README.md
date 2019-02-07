@@ -1,0 +1,3 @@
+#被忽略的智慧
+the_test_for_class_beloader_opportunity:描述了类被加载的时机
+the_test_for_class_beloader_order:描述了类被加载的顺序
